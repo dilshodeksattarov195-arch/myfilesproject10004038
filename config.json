@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorrarse",
+        "uuid": 28322532,
+        "checksum": "cojjwa"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
